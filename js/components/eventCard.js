@@ -1,6 +1,6 @@
 /**
  * Event Card Component
- * Renders an event card for the event listings
+ 
  * 
  * @param {Object} event - Event data
  * @returns {string} - HTML for the event card
