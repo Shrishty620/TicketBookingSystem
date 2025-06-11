@@ -1,5 +1,5 @@
 /**
- * Footer component
+ 
  * Renders the application footer
  */
 export function renderFooter() {
