@@ -1,5 +1,5 @@
 /**
- * Seat Selector Component
+ 
  * Provides interactive seat selection for booking
  */
 
