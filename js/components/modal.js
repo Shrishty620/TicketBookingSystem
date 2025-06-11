@@ -1,5 +1,5 @@
 /**
- * Modal Component
+ 
  * Creates and manages modal dialogs
  */
 
