@@ -1,6 +1,6 @@
 /**
  * Header component
- * Renders the application header with navigation
+ 
  */
 export function renderHeader() {
   const header = document.getElementById('main-header');
