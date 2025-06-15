@@ -4,7 +4,7 @@ import { renderHeader } from './js/components/header.js';
 import { renderFooter } from './js/components/footer.js';
 import { loadInitialData } from './js/utils/dataService.js';
 
-// Initialize the application
+
 const initApp = async () => {
   // Get the app container
   const appContainer = document.querySelector('#app');
